@@ -41,7 +41,7 @@ This tutorial outlines a step by step process on how to create a storage account
 -----------------------
 
 
-- Step-3: Create a Storage Account within the Resource Group created in Step 2
+- Step-3: Create a Storage Account within the Resource Group that was created in Step 2
 ![image](https://github.com/user-attachments/assets/c9f73ce6-978d-4016-8b21-2cce7b75373a)
 
 ---------------
@@ -56,7 +56,7 @@ This tutorial outlines a step by step process on how to create a storage account
 
 
 - Step-5: Create a container within the storage account
-- Go to storage accounts -> select the storage account that was created -> on the menu bar, under data storage, select Containers -> Create a Container (labtest)
+- Go to storage accounts -> select the storage account that was created -> on the menu bar, under data storage, select Containers -> Create a Container (name-labtest)
 
 ![image](https://github.com/user-attachments/assets/685b5231-ab29-4e80-920d-db1dfac825e2)
 
@@ -64,8 +64,8 @@ This tutorial outlines a step by step process on how to create a storage account
 
 ------------
 
-- Step-6: Upload the text file you created to the Azure Storage Account.
-- Click on the container that was just created (labtest) -> click on upload -> click on browse files and select the text file you have created -> next click on upload
+- Step-6: Upload the text file that was created to the Azure Storage Account.
+- Click on the container that was just created (name-labtest) -> click on upload -> click on browse files and select the text file that you have created -> next click on upload
 
   ![image](https://github.com/user-attachments/assets/fa99e8e5-73a9-461c-8bf3-eb21b4321d42)
 
@@ -75,8 +75,8 @@ This tutorial outlines a step by step process on how to create a storage account
 - Step-7: View and edit the file that was uploaded
 
  ![image](https://github.com/user-attachments/assets/0cd4daef-a2e9-4e80-9ebb-074c00c3045f)
-- Editing the text file
-  - Save the file 
+- Edit the text file
+  - Next, Save the file 
 ![image](https://github.com/user-attachments/assets/1f87e32d-df11-4392-a835-bd31b7788096)
 
 
