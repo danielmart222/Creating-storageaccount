@@ -75,6 +75,9 @@ This tutorial outlines a step by step process on how to create a storage account
 - Step-7: View and edit the file that was uploaded
 
  ![image](https://github.com/user-attachments/assets/0cd4daef-a2e9-4e80-9ebb-074c00c3045f)
+
+ ------------
+ 
 - Edit the text file
   - Next, Save the file 
 ![image](https://github.com/user-attachments/assets/1f87e32d-df11-4392-a835-bd31b7788096)
