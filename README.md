@@ -48,6 +48,7 @@ This tutorial outlines a step by step process on how to create a storage account
 
 
 - Step-4: Open notepad and Create a text file on your local desktop
+- Save text file as (azurelab-storage-account)
 ![image](https://github.com/user-attachments/assets/f678afea-78f1-4662-80fa-a7222e046cb7)
 
 
@@ -56,7 +57,7 @@ This tutorial outlines a step by step process on how to create a storage account
 
 
 - Step-5: Create a container within the storage account
-- Go to storage accounts -> select the storage account that was created -> on the menu bar, under data storage, select Containers -> Create a Container (name-labtest)
+- Go to storage accounts -> select the storage account (dmstorage123)-> on the menu bar, under data storage, select Containers -> Create a Container (name-labtest)
 
 ![image](https://github.com/user-attachments/assets/685b5231-ab29-4e80-920d-db1dfac825e2)
 
@@ -64,8 +65,8 @@ This tutorial outlines a step by step process on how to create a storage account
 
 ------------
 
-- Step-6: Upload the text file that was created to the Azure Storage Account.
-- Click on the container that was just created (name-labtest) -> click on upload -> click on browse files and select the text file that you have created -> next click on upload
+- Step-6: Upload the text file that was created in step-4 to the Azure Storage Account.
+- Click on the container (name-labtest) -> click on upload -> click on browse files and select the text file (azurelab-storage-account) -> next, click on upload
 
   ![image](https://github.com/user-attachments/assets/fa99e8e5-73a9-461c-8bf3-eb21b4321d42)
 
@@ -78,14 +79,14 @@ This tutorial outlines a step by step process on how to create a storage account
 
  ------------
  
-- Edit the text file
+- Edit the text file (azurelab-storage-account)
   - Next, Save the file 
 ![image](https://github.com/user-attachments/assets/1f87e32d-df11-4392-a835-bd31b7788096)
 
 
 ------------
 
-- step-8: Download the file -> Open the file and observe the changes on your desktop
+- step-8: Download the file -> Open the file (azurelab-storage-account) and observe the changes on your desktop
 
   ![image](https://github.com/user-attachments/assets/cce04ebc-1ba3-4c23-83b8-59bbd900bc72)
 
