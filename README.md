@@ -29,7 +29,7 @@ This tutorial outlines a step by step process on how to create a storage account
 
 ---------
 
-![image](https://github.com/user-attachments/assets/78646f52-3a7d-4111-9c02-6087e057678c)
+![image](https://github.com/user-attachments/assets/aba41ca6-106f-44bb-8edb-b05b6672dee9)
 
 
 --------------------
@@ -49,7 +49,8 @@ This tutorial outlines a step by step process on how to create a storage account
 ---------
 
 
-![image](https://github.com/user-attachments/assets/c9f73ce6-978d-4016-8b21-2cce7b75373a)
+![image](https://github.com/user-attachments/assets/e849a34a-84e3-41f0-aad2-8fda70081a9e)
+
 
 ---------------
 
@@ -64,8 +65,7 @@ This tutorial outlines a step by step process on how to create a storage account
 ---------
 
 
-![image](https://github.com/user-attachments/assets/f678afea-78f1-4662-80fa-a7222e046cb7)
-
+![image](https://github.com/user-attachments/assets/d74fd906-f528-4ab9-924c-6fb7b098fcc0)
 
 
 --------------
@@ -81,9 +81,7 @@ This tutorial outlines a step by step process on how to create a storage account
 ---------
 
 
-
-![image](https://github.com/user-attachments/assets/685b5231-ab29-4e80-920d-db1dfac825e2)
-
+![image](https://github.com/user-attachments/assets/9a4b1f5f-bda6-4692-b2d7-255bff2e5926)
 
 
 ------------
@@ -97,7 +95,8 @@ This tutorial outlines a step by step process on how to create a storage account
 
 -----------
 
-  ![image](https://github.com/user-attachments/assets/fa99e8e5-73a9-461c-8bf3-eb21b4321d42)
+![image](https://github.com/user-attachments/assets/7dc64497-4b0e-4b12-872a-7697f5eb193e)
+
 
 ------------------
 
@@ -107,7 +106,8 @@ This tutorial outlines a step by step process on how to create a storage account
 
 ---------
 
- ![image](https://github.com/user-attachments/assets/0cd4daef-a2e9-4e80-9ebb-074c00c3045f)
+![image](https://github.com/user-attachments/assets/23981b18-ab55-4193-93ff-dd5c1df69255)
+
 
  ------------
  
@@ -119,8 +119,7 @@ This tutorial outlines a step by step process on how to create a storage account
 
 ------------
 
-![image](https://github.com/user-attachments/assets/1f87e32d-df11-4392-a835-bd31b7788096)
-
+![image](https://github.com/user-attachments/assets/87683e96-08e4-4cb3-8ae2-3b13eefa4301)
 
 ------------
 
@@ -128,5 +127,6 @@ This tutorial outlines a step by step process on how to create a storage account
 
 ---------
 
-  ![image](https://github.com/user-attachments/assets/cce04ebc-1ba3-4c23-83b8-59bbd900bc72)
+![image](https://github.com/user-attachments/assets/16b9fa01-bcd3-4c22-8be9-52d6665bf27d)
+
 
