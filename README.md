@@ -29,7 +29,8 @@ This tutorial outlines a step by step process on how to create a storage account
 
 ---------
 
-![image](https://github.com/user-attachments/assets/f13eab3b-b74c-4737-8870-27c1ef957357)
+![image](https://github.com/user-attachments/assets/78646f52-3a7d-4111-9c02-6087e057678c)
+
 
 --------------------
 
@@ -38,9 +39,7 @@ This tutorial outlines a step by step process on how to create a storage account
 
 ----------
 
-![image](https://github.com/user-attachments/assets/12816dd4-26d4-4c8c-a5bf-ec9e7ffc574c)
-
-
+![image](https://github.com/user-attachments/assets/a1130bf4-70e0-4654-8a90-321230a55787)
 
 -----------------------
 
