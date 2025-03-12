@@ -91,7 +91,7 @@ This tutorial outlines a step by step process on how to create a storage account
 ----------
 
 
-- Click on the container (name-labtest) -> click on upload -> click on browse files and select the text file (azurelab-storage-account) -> next, click on upload
+- Click on the container (name-labtest) -> click on upload -> click on browse for files and select the text file (azurelab-storage-account) -> next, click on upload
 
 -----------
 
